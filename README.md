@@ -1,6 +1,5 @@
-# Sprint3
+# LOCAL EVENT FINDER WEBSITE
 
 
 Project Title: Local Event Finder Website
-
-Team Members: Md Hasan, Francisco Vazquez, Kevwe Ogbighen, Luna Da Silva, Prakriti Aryal     
+    
